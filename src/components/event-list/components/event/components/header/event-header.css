@@ -1,0 +1,14 @@
+.event-header {
+    width: 100%;
+    box-sizing: border-box;
+    flex: 0 40px;
+}
+
+.header-name {
+
+}
+
+.header-date span{
+    position: relative;
+    float: right;
+}

@@ -1,0 +1,11 @@
+.event-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    box-sizing: border-box;
+    border: #61dafb solid 3px;
+    border-radius: 8px;
+    padding: 0 8px 4px 8px;
+}
+

@@ -1,0 +1,19 @@
+.event-content {
+    width: 100%;
+    overflow: auto;
+    box-sizing: border-box;
+    display: none;
+    flex: 0 0;
+    word-break: break-word;
+    border-top: 1px solid #a1a1a1;
+}
+
+.event-content img {
+    width: 100%;
+}
+
+.display-content {
+    display: inline-block;
+    flex: 1 auto;
+    transition: all 0.3s ease 0s;
+}
